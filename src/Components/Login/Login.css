@@ -1,0 +1,16 @@
+.google img {
+    width:10%;
+    margin-right: 10px;
+}
+.login{
+    margin-top: 20%;
+}
+.google h2 {
+    font-size: 40px;
+    color: yellow;
+}
+.google button{
+    background-color: white;
+    border-radius: 20px;
+    font-weight: 500;
+}
